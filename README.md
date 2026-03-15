@@ -27,9 +27,9 @@
 <div>
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZno2cXI4Z2docG5vdmZpMHlpODc5YWZvdGZzMDhpaW5jMzdyY2pqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o4OxHgVp2dDL3LyFsC/giphy.gif" width="325" alt="Rnd img" />
   
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=constantin-curicheru&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="480" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=constantin-curicheru&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Streak" width="480" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=constantin-curicheru&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="480" />
+  <img src="https://github-readme-stats.vercel.app/api?username=constantin-curicheru&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="480" />
 </div>
 
 <br clear="both">
