@@ -29,7 +29,7 @@
   
   <img src="http://github-readme-streak-stats.herokuapp.com?user=constantin-curicheru&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Streak" width="480" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=constantin-curicheru&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="480" />
+  <img src="https://github-readme-stats.shion.dev/api?username=constantin-curicheru&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="480" />
 </div>
 
 <br clear="both">
